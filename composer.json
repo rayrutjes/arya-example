@@ -1,0 +1,15 @@
+{
+    "name": "rayrutjes/arya-example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raymond Rutjes",
+            "email": "raymond.rutjes@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "rayrutjes/arya": "^0.0.2",
+        "rayrutjes/arya-markdown": "^0.0.1"
+    }
+}
